@@ -1,0 +1,178 @@
+{
+  "user_1": {
+    "liked_images": [
+      "image_138.jpg",
+      "image_141.jpg",
+      "image_081.jpg"
+    ],
+    "preferred_tags": [
+      "#plage",
+      "#ville",
+      "#fleur",
+      "#nature",
+      "#chat"
+    ],
+    "preferred_orientations": [
+      "Paysage"
+    ],
+    "preferred_colors": [
+      [
+        "#153037",
+        "#dbc2a7",
+        "#72695b"
+      ],
+      [
+        "#0c3b54",
+        "#d7c8b1",
+        "#979585"
+      ],
+      [
+        "#23170b",
+        "#f4eee6",
+        "#87562f"
+      ]
+    ]
+  },
+  "user_2": {
+    "liked_images": [
+      "image_114.jpg",
+      "image_142.jpg",
+      "image_098.jpg"
+    ],
+    "preferred_tags": [
+      "#plage",
+      "#ville",
+      "#fleur",
+      "#for\u00eat",
+      "#chat",
+      "#chien",
+      "#ciel"
+    ],
+    "preferred_orientations": [
+      "Paysage"
+    ],
+    "preferred_colors": [
+      [
+        "#cad7e4",
+        "#3d3730",
+        "#77726b"
+      ],
+      [
+        "#152517",
+        "#314435",
+        "#6b6e55"
+      ],
+      [
+        "#e8f5f6",
+        "#363e35",
+        "#956f4d"
+      ]
+    ]
+  },
+  "user_3": {
+    "liked_images": [
+      "image_075.jpg",
+      "image_082.jpg",
+      "image_146.jpg"
+    ],
+    "preferred_tags": [
+      "#ville",
+      "#fleur",
+      "#chat",
+      "#chien",
+      "#ciel"
+    ],
+    "preferred_orientations": [
+      "Paysage"
+    ],
+    "preferred_colors": [
+      [
+        "#4c6492",
+        "#2d394d",
+        "#7690a8"
+      ],
+      [
+        "#dcdada",
+        "#484e55",
+        "#87a0b6"
+      ],
+      [
+        "#1b1c17",
+        "#b0aca8",
+        "#57534a"
+      ]
+    ]
+  },
+  "user_4": {
+    "liked_images": [
+      "image_166.jpg",
+      "image_140.jpg",
+      "image_033.jpg"
+    ],
+    "preferred_tags": [
+      "#plage",
+      "#fleur",
+      "#for\u00eat",
+      "#nature",
+      "#chat",
+      "#chien",
+      "#ciel"
+    ],
+    "preferred_orientations": [
+      "Paysage"
+    ],
+    "preferred_colors": [
+      [
+        "#d7dde5",
+        "#303537",
+        "#8e8778"
+      ],
+      [
+        "#849cba",
+        "#2b4554",
+        "#d5d6e2"
+      ],
+      [
+        "#341809",
+        "#e2b483",
+        "#9b5938"
+      ]
+    ]
+  },
+  "user_5": {
+    "liked_images": [
+      "image_054.jpg",
+      "image_146.jpg",
+      "image_040.jpg"
+    ],
+    "preferred_tags": [
+      "#plage",
+      "#ville",
+      "#for\u00eat",
+      "#nature",
+      "#chat",
+      "#chien",
+      "#ciel"
+    ],
+    "preferred_orientations": [
+      "Paysage"
+    ],
+    "preferred_colors": [
+      [
+        "#0a090a",
+        "#72777e",
+        "#2e0e1a"
+      ],
+      [
+        "#1b1c17",
+        "#b0aca8",
+        "#57534a"
+      ],
+      [
+        "#505967",
+        "#d2dae6",
+        "#a8b4c7"
+      ]
+    ]
+  }
+}
