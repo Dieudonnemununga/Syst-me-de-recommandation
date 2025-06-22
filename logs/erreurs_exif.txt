@@ -1,1 +1,4 @@
 Images sans EXIF ou erreurs :
+metadata.json
+metadata_annotated.json
+metadata_enriched.json
